@@ -1,7 +1,8 @@
 - 👋  Hi, I’m Helmut aka @helmutkaufmann
-- 👀  I’m interested in photography, hikimg/walking, websites, programming, ...
-- 🌱  I’m currently learning how to deal with GitHub
-- 📫  How to reach me through my sebsite https://mercator.li
+- 👀  I’m interested in many things such as photography, hikimg/walking, websites, programming. 
+to see some of my photography work, please, visit https://mercator.li
+- 🌱  I’m currently learning how to deal with GitHub and writing articles about risk management. 
+- 📫  You can beat reach me through my sebsite https://mercator.li/contact
 
 <!---
 helmutkaufmann/helmutkaufmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
